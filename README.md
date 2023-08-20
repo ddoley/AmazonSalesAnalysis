@@ -1,5 +1,5 @@
 # AmazonSalesAnalysis
-Amazon Sales Report Analysis for the year 2022 to know about the choices of the buyers in different states and city
+Amazon Sales Report Analysis for the year 2022 to know about the choices of the buyers in different states and cities
 
 ##  KEY INSIGHTS  
 1.The Highest numbers of Buyers were from Bengaluru City and Maharastra State.  
